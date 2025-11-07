@@ -1,3 +1,6 @@
+# Expo初体验  
+简单试了试，感受了下expo框架的路由等，配环境配起来是真方便  
+but发现想用的SDK包用不了，老老实实换react-native了  
 # 用expo 创建项目
 npx create-expo-app --template blank  
 # 将src/设为@
